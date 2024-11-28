@@ -1,2 +1,2 @@
-# Data-entry-form.github.io
+# Data-entry-form
 Stool: Seat height, number of legs, material (Табурет Высота сидушки, количествоножек,материал)
